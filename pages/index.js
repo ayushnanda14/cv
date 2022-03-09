@@ -25,7 +25,8 @@ export default function Home() {
       <main className={styles.whole}>
         <section className={styles.main}>
           <div className={styles.names}>
-            <p className={styles.main_text}>WELCOME</p>
+              <p className={styles.main_text}>WELCOME</p>
+              <p className={styles.main_text}>WELCOME TESTTT</p>
             <p className={styles.intro}>Hi. I'm Ayush Nanda. I'm a 4th Year CSE undergraduate at SSN College of Engineering in Chennai.</p>
           </div>
         </section>
